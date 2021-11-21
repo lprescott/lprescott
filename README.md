@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Luke, a full stack developer with [@JahnelGroup](https://www.jahnelgroup.com/) based in the East Coast of the United States of America <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="13"/> working with this tech:
+I am Luke, a full stack developer with [@JahnelGroup](https://www.jahnelgroup.com/) based in the East Coast of the United States of America <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="13"/>
 
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-46a2f1?style=flat-square&logo=javascript&logoColor=white" />
