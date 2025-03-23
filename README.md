@@ -4,10 +4,11 @@ I am Luke, a full stack developer with [@JahnelGroup](https://www.jahnelgroup.co
 
 ## 🚀 About Me
 
--   🔭 I'm currently working on building scalable web applications
--   🌱 I'm always learning new technologies and best practices
--   💬 Ask me about React, Node.js, or any other tech stack
--   📫 How to reach me: [Your preferred contact method]
+-   🔭 I'm currently working on building scalable web applications and microservices architecture
+-   🌱 I'm always learning new technologies and best practices in cloud computing and DevOps
+-   💬 Ask me about React, Node.js, TypeScript, or any other tech stack
+-   📫 How to reach me: [lprescott@jahnelgroup.com](mailto:lprescott@jahnelgroup.com)
+-   ⚡ Fun fact: I love contributing to open source projects and sharing knowledge with the developer community
 
 ## 🛠️ Tech Stack
 
@@ -74,15 +75,21 @@ I am Luke, a full stack developer with [@JahnelGroup](https://www.jahnelgroup.co
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/lprescott">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://twitter.com/lprescott">
     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/lprescott">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
+</p>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lprescott&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
