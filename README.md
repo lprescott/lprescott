@@ -75,11 +75,8 @@ I am Luke, a full stack developer with [@JahnelGroup](https://www.jahnelgroup.co
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/lprescott">
+  <a href="https://linkedin.com/in/lukerobertprescott">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/lprescott">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/lprescott">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
