@@ -64,10 +64,6 @@ I am Luke, a full stack developer with [@JahnelGroup](https://www.jahnelgroup.co
   <img src="https://github-profile-trophy.vercel.app/?username=lprescott&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/lprescott/lprescott/blob/output/github-contribution-grid-snake.svg)
-
 ## 🎵 Spotify
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ran491z2kas8p5d23x6ivvfm0)
