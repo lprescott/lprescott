@@ -7,7 +7,7 @@ I am Luke, a full stack developer with [@JahnelGroup](https://www.jahnelgroup.co
 -   🔭 I'm currently working on building scalable web applications and microservices architecture
 -   🌱 I'm always learning new technologies and best practices in cloud computing and DevOps
 -   💬 Ask me about React, Node.js, TypeScript, or any other tech stack
--   �� How to reach me: [Connect on LinkedIn](https://linkedin.com/in/lukerobertprescott)
+-   📫 How to reach me: [Connect on LinkedIn](https://linkedin.com/in/lukerobertprescott)
 -   ⚡ Fun fact: I love contributing to open source projects and sharing knowledge with the developer community
 
 ## 📊 GitHub Stats
