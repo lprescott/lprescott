@@ -70,7 +70,7 @@ I am Luke, a full stack developer with [@JahnelGroup](https://www.jahnelgroup.co
 
 ## 🎵 Now Playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ran491z2kas8p5d23x6ivvfm0)](https://github.com/kittinan/spotify-github-profile)
 
 ## 📫 Connect With Me
 
