@@ -68,9 +68,9 @@ I am Luke, a full stack developer with [@JahnelGroup](https://www.jahnelgroup.co
 
 ![Snake animation](https://github.com/lprescott/lprescott/blob/output/github-contribution-grid-snake.svg)
 
-## 🎵 Now Playing
+## 🎵 Spotify
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ran491z2kas8p5d23x6ivvfm0)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ran491z2kas8p5d23x6ivvfm0)
 
 ## 📫 Connect With Me
 
