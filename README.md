@@ -10,6 +10,27 @@ I am Luke, a full stack developer with [@JahnelGroup](https://www.jahnelgroup.co
 -   📫 How to reach me: [lprescott@jahnelgroup.com](mailto:lprescott@jahnelgroup.com)
 -   ⚡ Fun fact: I love contributing to open source projects and sharing knowledge with the developer community
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=lprescott&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lprescott&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lprescott&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 🎵 Spotify
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ran491z2kas8p5d23x6ivvfm0)
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lprescott&theme=react-dark&hide_border=true&area=true" />
+</p>
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -134,40 +155,14 @@ I am Luke, a full stack developer with [@JahnelGroup](https://www.jahnelgroup.co
   <img alt="Risk Management" src="https://img.shields.io/badge/-Risk_Management-2496ED?style=flat-square&logo=risk&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+---
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=lprescott&theme=dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lprescott&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://komarev.com/ghpvc/?username=lprescott&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lprescott&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</p>
-
-## 🎵 Spotify
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ran491z2kas8p5d23x6ivvfm0)
-
-## 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/lukerobertprescott">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/lprescott">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lprescott&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lprescott&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
