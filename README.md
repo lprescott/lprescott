@@ -245,7 +245,7 @@ Outside of professional software development, I experiment with:
 * Local-first AI and model orchestration
 * Self-hosted infrastructure and homelab systems
 * Cloud automation and infrastructure as code
-* Interactive genealogy and relationship visualization
+* Interactive genealogy and relationship visualization, shipped as [Draw My Tree](https://drawmytree.com/), a family tree builder from my company [Prescott Bros LLC](https://prescottbros.com/)
 * Gaming infrastructure and server automation
 
 ## Contact
