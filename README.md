@@ -252,7 +252,7 @@ Outside of professional software development, I experiment with:
 
 <p>
   The best way to reach me is
-  <a href="mailto:contact@lukeprescott.dev"><strong>contact@lukeprescott.dev</strong></a>.
+  <a href="mailto:hi@lukeprescott.dev"><strong>hi@lukeprescott.dev</strong></a>.
 </p>
 
 <p>
