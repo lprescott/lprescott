@@ -10,7 +10,7 @@ Building resilient web platforms, cloud systems, developer tooling, and practica
   <a href="https://www.lukeprescott.dev/">
     <img alt="Luke Prescott's website" src="https://img.shields.io/badge/lukeprescott.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:contact@lukeprescott.dev">
+  <a href="mailto:hi@lukeprescott.dev">
     <img alt="Email Luke Prescott" src="https://img.shields.io/badge/Contact-374151?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/lukerobertprescott">
@@ -20,42 +20,17 @@ Building resilient web platforms, cloud systems, developer tooling, and practica
 
 </div>
 
-```typescript
-const luke = {
-  role: "Senior Software Engineer",
-  builds: [
-    "web platforms",
-    "cloud systems",
-    "developer tooling",
-    "AI infrastructure",
-  ],
-  values: ["clarity", "reliability", "automation", "maintainability"],
-} as const;
-```
-
 ## About
 
 I am a full-stack software engineer focused on designing and delivering dependable products across frontend applications, backend services, cloud infrastructure, and developer tooling.
 
-My work centers on TypeScript, React, Node.js, GraphQL, PostgreSQL, and AWS. I enjoy simplifying complicated systems, defining clear architectural boundaries, improving developer experience, and automating work that should not require repeated human effort.
+My work centers on TypeScript, React, Node.js, GraphQL, PostgreSQL, AWS, Google Cloud, and Cloudflare. I enjoy simplifying complicated systems, defining clear architectural boundaries, improving developer experience, and automating work that should not require repeated human effort.
 
-## Engineering Map
+## What I'm Building
 
-```mermaid
-flowchart LR
-    PRODUCT["Product Engineering<br/>React · Next.js · TypeScript"]
-    SERVICES["Services & Data<br/>Node.js · GraphQL · PostgreSQL"]
-    PLATFORM["Cloud Platform<br/>AWS · Terraform · Docker"]
-    DELIVERY["Delivery & Operations<br/>CI/CD · Linux · Observability"]
-    AI["AI & Automation<br/>Ollama · LiteLLM · n8n"]
+**[Draw My Tree](https://drawmytree.com/)**, a family tree builder from my company [Prescott Bros. LLC](https://prescottbros.com/). It draws large family trees on an interactive WebGL canvas, imports and exports GEDCOM, and lets AI assistants read and edit a tree over MCP.
 
-    PRODUCT --> SERVICES
-    SERVICES --> PLATFORM
-    PLATFORM --> DELIVERY
-    DELIVERY --> PRODUCT
-    PLATFORM --> AI
-    AI --> PRODUCT
-```
+React · TypeScript · Pixi.js · Fastify · Prisma · PostgreSQL (Neon) · Google Cloud Run · Cloudflare Workers
 
 ## Core Toolkit
 
@@ -70,26 +45,13 @@ flowchart LR
 
 <p>
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-## Engineering Strengths
-
-<p>
-  <img alt="System Design" src="https://img.shields.io/badge/System_Design-111827?style=flat-square" />
-  <img alt="Full-Stack Architecture" src="https://img.shields.io/badge/Full--Stack_Architecture-111827?style=flat-square" />
-  <img alt="API Design" src="https://img.shields.io/badge/API_Design-111827?style=flat-square" />
-  <img alt="Cloud Infrastructure" src="https://img.shields.io/badge/Cloud_Infrastructure-111827?style=flat-square" />
-  <img alt="Developer Experience" src="https://img.shields.io/badge/Developer_Experience-111827?style=flat-square" />
-  <img alt="Continuous Integration and Delivery" src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square" />
-  <img alt="Automated Testing" src="https://img.shields.io/badge/Automated_Testing-111827?style=flat-square" />
-  <img alt="Observability" src="https://img.shields.io/badge/Observability-111827?style=flat-square" />
-  <img alt="Workflow Automation" src="https://img.shields.io/badge/Workflow_Automation-111827?style=flat-square" />
-  <img alt="Data Visualization" src="https://img.shields.io/badge/Data_Visualization-111827?style=flat-square" />
 </p>
 
 ## Technology Depth
@@ -153,7 +115,7 @@ API design · GraphQL schemas · Relational modeling · Authentication · Search
 </details>
 
 <details>
-  <summary><strong>AWS & Cloud Architecture</strong></summary>
+  <summary><strong>Cloud Architecture</strong></summary>
   <br />
 
   <p>
@@ -173,6 +135,13 @@ API design · GraphQL schemas · Relational modeling · Authentication · Search
     <img alt="Amazon SQS" src="https://img.shields.io/badge/SQS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
     <img alt="Amazon SNS" src="https://img.shields.io/badge/SNS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
     <img alt="AWS Step Functions" src="https://img.shields.io/badge/Step_Functions-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  </p>
+
+  <p>
+    <img alt="Google Cloud Run" src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+    <img alt="Google Cloud Storage" src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+    <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white" />
+    <img alt="Neon" src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" />
   </p>
 
   <p>
@@ -227,17 +196,6 @@ Local model hosting · Model gateways · Workflow automation · AI-assisted deve
 
 </details>
 
-## Engineering Principles
-
-```text
-Make complex systems understandable.
-Design for the next engineer, not only the first release.
-Automate repetitive work.
-Treat testing and observability as product capabilities.
-Prefer clear boundaries over clever abstractions.
-Balance technical quality with practical delivery.
-```
-
 ## Beyond the Day Job
 
 Outside of professional software development, I experiment with:
@@ -245,7 +203,6 @@ Outside of professional software development, I experiment with:
 * Local-first AI and model orchestration
 * Self-hosted infrastructure and homelab systems
 * Cloud automation and infrastructure as code
-* Interactive genealogy and relationship visualization, shipped as [Draw My Tree](https://drawmytree.com/), a family tree builder from my company [Prescott Bros LLC](https://prescottbros.com/)
 * Gaming infrastructure and server automation
 
 ## Contact
